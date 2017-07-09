@@ -23,7 +23,7 @@ namespace GameHangman
             
 
 
-            int lives = 5;
+            int lives = 3;
             string[] words = { "sky", "apple", "cloud", "is", "am" };
 
             bool[] usedLetters = new bool[26]; //if found is true
